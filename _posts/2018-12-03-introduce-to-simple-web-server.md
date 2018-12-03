@@ -14,6 +14,7 @@ keywords: GraphQL,SimpleWebServer
   + 前端：vue.js
 + 数据来源：
   [https://swapi.co/](https://swapi.co/)
+  
 # 项目安装：
 + 前端：
 + 后端：
@@ -24,6 +25,7 @@ keywords: GraphQL,SimpleWebServer
   >go install
   
   >simpleWebServer
+  
 # 项目使用：
 
 在安装了前端和后端代码之后，打开浏览器，在地址栏输入：
