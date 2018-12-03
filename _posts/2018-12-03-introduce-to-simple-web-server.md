@@ -1,9 +1,9 @@
 ---
 layout: post
-title: hello world
+title: 简单web服务搭建-GraphQL框架
 categories: Simplewebserver
-description: 例子
-keywords: 例子博客
+description: 对GraphQL框架的服务端开发部分项目的介绍
+keywords: GraphQL,SimpleWebServer
 ---
 
 
