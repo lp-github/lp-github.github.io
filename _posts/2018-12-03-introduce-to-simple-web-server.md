@@ -6,6 +6,4 @@ description: 对GraphQL框架的服务端开发部分项目的介绍
 keywords: GraphQL,SimpleWebServer
 ---
 
-
-安装项目：
-npm install simplewebserver
+<center>aaa</center>
