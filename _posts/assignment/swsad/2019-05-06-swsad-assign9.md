@@ -11,7 +11,7 @@ keywords: design,assignment,analyse
 
 # 2.payment领域建模  
 ![image1](/images/posts/UMLet/assign9/p2.png)
-约束：  
+### 约束：  
 + Hotel (ID/PrimeryKey, LocationID/ForeignKey, Name, Address, Star)  
 + Room (ID/PrimeryKey, Type, Price, IsAvailable)  
 + Travelers (ID/PrimeryKey, Name, Email)  
