@@ -19,6 +19,7 @@ keywords: design,assignment,analyse
 , Date, Time, CheckInDate, CheckOutDate, AdultNum, ChildNum, ChildAge)  
 + Payment (ID/PrimeryKey, ReservationID/ForeignKey, Date, Time, Total)  
 + CreditCard (ID/PrimeryKey, TravelerID/ForeignKey, PaymentID/ForeignKey, Number, SecurityCode, ExpiryDate)  
+
 # 3.生命周期：  
 ![image1](/images/posts/UMLet/assign9/p3.png)
 
