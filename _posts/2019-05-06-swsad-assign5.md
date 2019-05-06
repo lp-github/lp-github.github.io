@@ -8,8 +8,7 @@ keywords: software system analysis,软件系统分析
 
 1.
     用例图： 
-    
-    ![tupian1](images/posts/UMLet/assign5/q1.png)
+    ![tupian1](/images/posts/UMLet/assign5/q1.png)
 
     活动图：  
     
