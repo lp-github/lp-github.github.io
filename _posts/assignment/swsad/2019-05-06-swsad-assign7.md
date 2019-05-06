@@ -12,6 +12,7 @@ keywords: software system analysis,软件系统分析
 
     活动图：  
     ![tupian1](/images/posts/UMLet/assign5/q2.png)
+    
 2.  
     泳道图：  
     ![tupian1](/images/posts/UMLet/assign5/q3.png)
