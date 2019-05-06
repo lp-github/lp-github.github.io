@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 软件系统分析第5周作业
+title: 软件系统分析第7周作业
 categories: assignment
-description: 系统分析与设计第5周作业
+description: 系统分析与设计第7周作业
 keywords: software system analysis,软件系统分析
 ---
 
