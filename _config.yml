@@ -5,9 +5,9 @@ baseurl:
 url: https://lp-github.github.io
 date_format: "ordinal"
 title: 我的博客
-subtitle: "打码不能改变人生"
-description: "李平的博客"
-keywords: 码志, Zhuang Ma, mzlogin, lp-github
+subtitle: "打码改变人生"
+description: "lp的博客"
+keywords: 码志, Ping Li, lp-github
 timezone: Asia/Shanghai
 encoding: "utf-8"
 side_bar_repo_limit: 5
@@ -94,7 +94,7 @@ comments_provider: gitalk
 # !!!Important!!! Please modify infos below to yours
 # https://disqus.com
 disqus:
-    username: 
+    username: lp-github
 # https://imsun.net/posts/gitment-introduction/
 gitment:
     owner: lp-github.github.io
@@ -109,7 +109,7 @@ gitalk:
     clientID: d2e1cbbd298958076462
     clientSecret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
 # 在使用其它评论组件时可点击显示 Disqus
-lazy_load_disqus : false
+lazy_load_disqus : true
 
 # ---------------- #
 #      Search      #
